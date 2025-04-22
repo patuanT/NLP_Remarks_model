@@ -43,8 +43,8 @@ BFI Finance agents often fill out visit report forms and write remarks after con
 
 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/vierikurniawan/NLP-Remarks-Classification.git  
-cd NLP-Remarks-Classification  
+git clone https://github.com/dhld27/NLP_Remarks_model.git  
+cd NLP_Remarks_model  
 ```
 2️⃣ Install dependencies
 ```bash
